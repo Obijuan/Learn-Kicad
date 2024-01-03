@@ -3,5 +3,6 @@ _autosave-*
 *-backups
 *-cache*
 *.kicad_prl
+*.FCBak
 
 
