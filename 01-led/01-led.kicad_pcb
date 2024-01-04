@@ -129,8 +129,8 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 0d1e28d6-fbd5-46f4-8a27-1c02dc1a9a5d))
     (pad "2" thru_hole circle (at 2.54 0 90) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp baa049e3-0287-4da9-bca9-575d86c75c33))
-    (model "/home/obijuan/Develop/Learn-Kicad/3D/LEDS/LED_D3-2.0mm.step"
-      (offset (xyz 1.27 0 0))
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/led-rojo-3mm-3.step"
+      (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
