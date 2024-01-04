@@ -129,7 +129,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 0d1e28d6-fbd5-46f4-8a27-1c02dc1a9a5d))
     (pad "2" thru_hole circle (at 2.54 0 90) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp baa049e3-0287-4da9-bca9-575d86c75c33))
-    (model "/home/obijuan/Develop/Learn-Kicad/3D/led-rojo-3mm-3.step"
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/LEDS/led-rojo-3mm-3.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -185,7 +185,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 0b0d6c24-f5f8-4920-a66c-da8dc9ca7e5a))
     (pad "2" thru_hole circle (at 2.54 0 90) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(D2-A)") (pinfunction "A") (pintype "passive") (tstamp de2ef4b5-146e-47c3-a83e-4247a75af6c6))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/LEDS/led-rojo-3mm-3.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
