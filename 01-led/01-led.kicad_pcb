@@ -134,6 +134,16 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 0 0 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 2.54 0 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
   )
 
   (footprint "LED_THT:LED_D3.0mm" (layer "F.Cu")
@@ -189,6 +199,16 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 0 0 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 2.54 0 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
     )
   )
 
@@ -254,6 +274,16 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 0 0 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 0 -2.54 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (layer "B.Cu")
@@ -317,6 +347,16 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 0 0 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
+    (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+      (offset (xyz 0 -2.54 -1.6764))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
     )
   )
 
