@@ -48,14 +48,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/Library.3DShapes/solder-1.step"
+  (model "${KIPRJMOD}/Library.3DShapes/solder-1x02-2.54mm.step"
     (offset (xyz 0 0 -1.6764))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 0))
-  )
-  (model "${KIPRJMOD}/Library.3DShapes/solder-1.step"
-    (offset (xyz 2.54 0 -1.6764))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 0))
+    (rotate (xyz 180 0 0))
   )
 )
