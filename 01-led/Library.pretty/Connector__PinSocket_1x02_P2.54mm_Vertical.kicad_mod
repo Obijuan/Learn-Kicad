@@ -56,12 +56,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+  (model "${KIPRJMOD}/Library.3DShapes/solder-1.step"
     (offset (xyz 0 0 -1.6764))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
-  (model "/home/obijuan/Develop/Learn-Kicad/3D/solder-1.step"
+  (model "${KIPRJMOD}/Library.3DShapes/solder-1.step"
     (offset (xyz 0 -2.54 -1.6764))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
