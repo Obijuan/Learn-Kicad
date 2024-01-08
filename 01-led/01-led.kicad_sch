@@ -427,7 +427,7 @@
   (symbol (lib_id "Device:LED") (at 130.81 69.85 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid be4688e5-708b-4c62-a9fa-d85ad564b7d2)
-    (property "Reference" "D2" (at 134.62 70.1675 90)
+    (property "Reference" "D0" (at 134.62 70.1675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 134.62 72.7075 90)
@@ -444,7 +444,7 @@
     (instances
       (project "01-led"
         (path "/d7cbc107-4721-4d28-9271-a3fbf995a958"
-          (reference "D2") (unit 1)
+          (reference "D0") (unit 1)
         )
       )
     )
